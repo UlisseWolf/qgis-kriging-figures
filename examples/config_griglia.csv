@@ -1,0 +1,7 @@
+riga;colonna;percorso_raster
+10 m;Sferico;C:/data/sph_10.tif
+10 m;Esponenziale;C:/data/exp_10.tif
+10 m;Gaussiano;C:/data/gau_10.tif
+500 m;Sferico;C:/data/sph_500.tif
+500 m;Esponenziale;C:/data/exp_500.tif
+500 m;Gaussiano;C:/data/gau_500.tif
